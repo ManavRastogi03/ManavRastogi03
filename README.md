@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@manavrastogi17" target="blank"><img src="https://img.shields.io/twitter/follow/manavrastogi17?logo=twitter&style=for-the-badge" alt="@manavrastogi17" /></a> </p>
 
-- 🔭 I’m currently working on [Food Delivery](https://github.com/ManavRastogi03/Major-Project-Food_Delivery)
+- 🔭 This is my major project [Insurance Wala](https://v-insurance-web-site.vercel.app/)
 
 - 📫 How to reach me **manavrastogi2003@gmail.com**
 
